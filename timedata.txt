@@ -1,0 +1,3327 @@
+FFT Time elapsed: 
+.035 seconds
+DFT Time elapsed: 
+.035 seconds
+FFT Time elapsed: 
+.036 seconds
+DFT Time elapsed: 
+.035 seconds
+FFT Time elapsed: 
+.035 seconds
+DFT Time elapsed: 
+.037 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.035 seconds
+FFT Time elapsed: 
+.035 seconds
+DFT Time elapsed: 
+.038 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+.037 seconds
+FFT Time elapsed: 
+.034 seconds
+DFT Time elapsed: 
+.036 seconds
+FFT Time elapsed: 
+.036 seconds
+DFT Time elapsed: 
+.037 seconds
+FFT Time elapsed: 
+.036 seconds
+DFT Time elapsed: 
+.040 seconds
+FFT Time elapsed: 
+.036 seconds
+DFT Time elapsed: 
+.042 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.040 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.043 seconds
+FFT Time elapsed: 
+.036 seconds
+DFT Time elapsed: 
+.043 seconds
+FFT Time elapsed: 
+.036 seconds
+DFT Time elapsed: 
+.059 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+.048 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+.054 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+.052 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+.066 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+.058 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+.066 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+.066 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+.066 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.061 seconds
+FFT Time elapsed: 
+.036 seconds
+DFT Time elapsed: 
+.065 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.063 seconds
+FFT Time elapsed: 
+.036 seconds
+DFT Time elapsed: 
+.068 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+.069 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+.071 seconds
+FFT Time elapsed: 
+.036 seconds
+DFT Time elapsed: 
+.073 seconds
+FFT Time elapsed: 
+.036 seconds
+DFT Time elapsed: 
+.076 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.078 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+.081 seconds
+FFT Time elapsed: 
+.036 seconds
+DFT Time elapsed: 
+.083 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+.087 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+.091 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+.094 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.096 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+.099 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.101 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.105 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+.113 seconds
+FFT Time elapsed: 
+.035 seconds
+DFT Time elapsed: 
+.111 seconds
+FFT Time elapsed: 
+.036 seconds
+DFT Time elapsed: 
+.114 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.118 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+.125 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.131 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+.137 seconds
+FFT Time elapsed: 
+.035 seconds
+DFT Time elapsed: 
+.134 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.141 seconds
+FFT Time elapsed: 
+.036 seconds
+DFT Time elapsed: 
+.142 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+.158 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+.154 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+.158 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+.163 seconds
+FFT Time elapsed: 
+.036 seconds
+DFT Time elapsed: 
+.166 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+.175 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+.176 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.193 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+.208 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+.205 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+.212 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+.223 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+.229 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+.239 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+.240 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+.245 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+.259 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+.266 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+.287 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+.272 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+.284 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+.290 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+.285 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+.299 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+.310 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+.316 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+.322 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+.332 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+.340 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+.337 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+.330 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+.336 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+.342 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+.346 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+.348 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.354 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+.366 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+.378 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+.384 seconds
+FFT Time elapsed: 
+.036 seconds
+DFT Time elapsed: 
+.389 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+.399 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+.399 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+.413 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.413 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.441 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+.460 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.491 seconds
+FFT Time elapsed: 
+.070 seconds
+DFT Time elapsed: 
+.494 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.467 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+.468 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+.477 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.488 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+.580 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+.508 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+.521 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+.544 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+.550 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.541 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+.597 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.564 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+.603 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+.639 seconds
+FFT Time elapsed: 
+.036 seconds
+DFT Time elapsed: 
+.590 seconds
+FFT Time elapsed: 
+.036 seconds
+DFT Time elapsed: 
+.587 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.599 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+.623 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.627 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.663 seconds
+FFT Time elapsed: 
+.060 seconds
+DFT Time elapsed: 
+.716 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+.711 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+.727 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+.711 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+.713 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+.724 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+.728 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+.745 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+.725 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.740 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.762 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+.765 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+.801 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.783 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+.801 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.843 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+.823 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+.826 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+.863 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+.875 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+.877 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+.900 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+.902 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+.952 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+.930 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+.932 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+.960 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+.972 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+.982 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+.989 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+1.011 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+1.026 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+1.040 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+1.057 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+1.082 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+1.071 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+1.083 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+1.079 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+1.102 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+1.121 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+1.132 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+1.150 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+1.155 seconds
+FFT Time elapsed: 
+.037 seconds
+DFT Time elapsed: 
+1.167 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+1.185 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+1.200 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+1.220 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+1.244 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+1.265 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+1.253 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+1.292 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+1.297 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+1.309 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+1.316 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+1.337 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+1.359 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+1.363 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+1.385 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+1.397 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+1.409 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+1.426 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+1.441 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+1.458 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+1.469 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+1.499 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+1.486 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+1.513 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+1.557 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+1.578 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+1.569 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+1.583 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+1.588 seconds
+FFT Time elapsed: 
+.038 seconds
+DFT Time elapsed: 
+1.618 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+1.656 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+1.652 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+1.658 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+1.679 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+1.696 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+1.725 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+1.729 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+1.845 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+1.828 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+1.837 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+1.892 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+1.869 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+1.910 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+1.887 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+1.918 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+1.894 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+1.905 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+1.936 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+1.972 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+1.997 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+2.012 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+2.034 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+2.040 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+2.060 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+2.076 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+2.111 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+2.124 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+2.146 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+2.163 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+2.194 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+2.180 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+2.218 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+2.245 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+2.254 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+2.284 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+2.311 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+2.319 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+2.327 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+2.345 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+2.391 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+2.369 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+2.398 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+2.420 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+2.421 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+2.450 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+2.475 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+2.526 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+2.546 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+2.544 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+2.563 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+2.579 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+2.633 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+2.651 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+2.666 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+2.694 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+2.673 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+2.726 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+2.750 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+2.721 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+2.928 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+2.867 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+2.813 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+2.930 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+2.834 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+3.062 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+3.089 seconds
+FFT Time elapsed: 
+.065 seconds
+DFT Time elapsed: 
+3.298 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+3.282 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+3.186 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+3.212 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+3.321 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+3.282 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+4.265 seconds
+FFT Time elapsed: 
+.070 seconds
+DFT Time elapsed: 
+3.734 seconds
+FFT Time elapsed: 
+.057 seconds
+DFT Time elapsed: 
+3.862 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+3.332 seconds
+FFT Time elapsed: 
+.053 seconds
+DFT Time elapsed: 
+3.409 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+3.401 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+3.745 seconds
+FFT Time elapsed: 
+.066 seconds
+DFT Time elapsed: 
+3.425 seconds
+FFT Time elapsed: 
+.039 seconds
+DFT Time elapsed: 
+3.254 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+3.468 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+3.458 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+3.419 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+3.476 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+3.523 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+3.542 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+3.484 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+3.578 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+3.567 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+3.541 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+3.675 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+3.847 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+3.806 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+3.597 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+3.782 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+3.821 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+3.779 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+3.757 seconds
+FFT Time elapsed: 
+.053 seconds
+DFT Time elapsed: 
+3.977 seconds
+FFT Time elapsed: 
+.054 seconds
+DFT Time elapsed: 
+3.698 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+3.719 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+3.914 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+3.894 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+4.025 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+3.819 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+3.832 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+3.848 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+3.890 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+3.944 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+3.938 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+3.949 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+3.980 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+4.039 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+4.164 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+4.107 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+4.151 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+4.125 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+4.142 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+4.171 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+4.170 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+4.206 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+4.250 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+4.292 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+4.327 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+4.313 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+4.340 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+4.379 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+4.412 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+4.452 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+4.485 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+4.497 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+4.498 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+4.577 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+4.595 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+4.576 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+4.631 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+4.649 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+4.666 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+4.711 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+4.749 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+4.760 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+4.798 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+4.834 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+4.916 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+4.938 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+4.932 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+5.003 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+5.030 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+5.062 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+5.095 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+5.112 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+5.202 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+5.149 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+5.183 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+5.197 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+5.267 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+5.266 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+5.338 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+5.359 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+5.427 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+5.425 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+5.454 seconds
+FFT Time elapsed: 
+.040 seconds
+DFT Time elapsed: 
+5.462 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+5.492 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+5.529 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+5.592 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+5.608 seconds
+FFT Time elapsed: 
+.041 seconds
+DFT Time elapsed: 
+5.626 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+5.671 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+5.713 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+5.745 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+5.795 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+5.762 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+5.836 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+5.821 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+5.881 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+5.926 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+5.934 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+6.015 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+6.013 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+6.012 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+6.110 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+6.113 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+6.087 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+6.151 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+6.161 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+6.148 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+6.170 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+6.203 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+6.293 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+6.304 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+6.281 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+6.337 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+6.397 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+6.424 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+6.482 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+6.475 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+6.501 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+6.573 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+6.620 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+6.604 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+6.651 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+6.692 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+6.741 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+6.728 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+6.787 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+6.807 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+6.859 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+6.896 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+6.962 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+6.988 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+7.005 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+7.046 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+7.062 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+7.122 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+7.127 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+7.200 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+7.173 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+7.268 seconds
+FFT Time elapsed: 
+.042 seconds
+DFT Time elapsed: 
+7.298 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+7.322 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+7.372 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+7.384 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+7.411 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+7.521 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+7.494 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+7.567 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+7.572 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+7.572 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+7.661 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+7.722 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+7.703 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+7.726 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+7.755 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+7.803 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+7.830 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+7.919 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+7.871 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+8.006 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+8.111 seconds
+FFT Time elapsed: 
+.077 seconds
+DFT Time elapsed: 
+8.107 seconds
+FFT Time elapsed: 
+.054 seconds
+DFT Time elapsed: 
+8.089 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+8.107 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+8.129 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+8.185 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+8.315 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+8.378 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+8.461 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+8.472 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+8.490 seconds
+FFT Time elapsed: 
+.043 seconds
+DFT Time elapsed: 
+8.436 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+8.434 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+8.498 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+8.554 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+8.556 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+8.774 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+8.652 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+8.723 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+8.750 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+8.756 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+8.810 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+8.870 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+8.874 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+9.028 seconds
+FFT Time elapsed: 
+.060 seconds
+DFT Time elapsed: 
+9.265 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+9.162 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+9.099 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+9.142 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+9.121 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+9.222 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+9.237 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+9.337 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+9.401 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+9.347 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+9.346 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+9.425 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+9.401 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+9.466 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+9.478 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+9.601 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+9.585 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+9.603 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+9.744 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+9.803 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+9.773 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+9.881 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+9.867 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+9.913 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+9.920 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+9.977 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+10.050 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+10.055 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+10.076 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+10.124 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+10.133 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+10.289 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+10.333 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+10.317 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+10.346 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+10.371 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+10.406 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+10.470 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+10.541 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+10.528 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+10.594 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+10.668 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+10.677 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+10.727 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+10.819 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+10.831 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+10.829 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+10.907 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+10.934 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+10.965 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+11.062 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+11.089 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+11.081 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+11.169 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+11.247 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+11.303 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+11.169 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+11.209 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+11.107 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+11.258 seconds
+FFT Time elapsed: 
+.044 seconds
+DFT Time elapsed: 
+11.283 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+5926.470 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+11.909 seconds
+FFT Time elapsed: 
+.053 seconds
+DFT Time elapsed: 
+12.192 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+11.655 seconds
+FFT Time elapsed: 
+.058 seconds
+DFT Time elapsed: 
+11.919 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+11.888 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+11.856 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+11.932 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+12.022 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+11.877 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+12.001 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+12.151 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+12.195 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+12.651 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+12.156 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+12.326 seconds
+FFT Time elapsed: 
+.053 seconds
+DFT Time elapsed: 
+12.229 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+12.259 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+12.432 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+12.364 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+12.385 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+12.558 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+12.732 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+12.617 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+12.781 seconds
+FFT Time elapsed: 
+.045 seconds
+DFT Time elapsed: 
+12.608 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+12.700 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+12.931 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+12.909 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+13.005 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+13.095 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+12.894 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+12.963 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+13.190 seconds
+FFT Time elapsed: 
+.061 seconds
+DFT Time elapsed: 
+13.262 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+13.458 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+13.355 seconds
+FFT Time elapsed: 
+.046 seconds
+DFT Time elapsed: 
+13.420 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+13.400 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+13.886 seconds
+FFT Time elapsed: 
+.058 seconds
+DFT Time elapsed: 
+13.432 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+13.427 seconds
+FFT Time elapsed: 
+.058 seconds
+DFT Time elapsed: 
+13.647 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+13.742 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+13.498 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+13.533 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+13.601 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+13.694 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+13.755 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+13.760 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+13.792 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+13.844 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+13.934 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+13.936 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+14.045 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+14.029 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+14.092 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+14.130 seconds
+FFT Time elapsed: 
+.053 seconds
+DFT Time elapsed: 
+14.211 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+14.222 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+14.321 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+14.368 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+14.428 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+14.446 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+14.574 seconds
+FFT Time elapsed: 
+.054 seconds
+DFT Time elapsed: 
+14.870 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+14.683 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+14.714 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+14.758 seconds
+FFT Time elapsed: 
+.054 seconds
+DFT Time elapsed: 
+14.754 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+14.748 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+14.825 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+14.842 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+15.023 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+15.002 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+16.040 seconds
+FFT Time elapsed: 
+.070 seconds
+DFT Time elapsed: 
+15.610 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+16.164 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+16.213 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+16.247 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+16.875 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+16.665 seconds
+FFT Time elapsed: 
+.058 seconds
+DFT Time elapsed: 
+15.594 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+15.492 seconds
+FFT Time elapsed: 
+.073 seconds
+DFT Time elapsed: 
+15.466 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+15.552 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+15.613 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+15.779 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+15.645 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+15.766 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+15.738 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+15.893 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+16.099 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+16.043 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+16.031 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+16.073 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+16.585 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+16.469 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+16.315 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+16.196 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+16.364 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+16.541 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+16.590 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+16.451 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+16.699 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+16.948 seconds
+FFT Time elapsed: 
+.062 seconds
+DFT Time elapsed: 
+16.956 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+16.733 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+16.762 seconds
+FFT Time elapsed: 
+.047 seconds
+DFT Time elapsed: 
+16.803 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+16.849 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+16.901 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+17.174 seconds
+FFT Time elapsed: 
+.061 seconds
+DFT Time elapsed: 
+17.111 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+17.097 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+17.420 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+17.203 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+17.309 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+17.407 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+17.444 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+17.542 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+17.561 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+17.422 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+17.587 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+17.639 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+18.112 seconds
+FFT Time elapsed: 
+.069 seconds
+DFT Time elapsed: 
+18.035 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+17.944 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+18.335 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+18.176 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+18.691 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+18.041 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+18.679 seconds
+FFT Time elapsed: 
+.054 seconds
+DFT Time elapsed: 
+18.346 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+18.482 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+18.150 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+19.492 seconds
+FFT Time elapsed: 
+.075 seconds
+DFT Time elapsed: 
+18.988 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+18.369 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+19.051 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+19.385 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+19.060 seconds
+FFT Time elapsed: 
+.053 seconds
+DFT Time elapsed: 
+18.893 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+18.742 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+18.891 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+19.013 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+19.052 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+19.201 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+19.270 seconds
+FFT Time elapsed: 
+.066 seconds
+DFT Time elapsed: 
+19.529 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+19.096 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+19.152 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+19.217 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+19.457 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+19.338 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+19.360 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+19.437 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+19.555 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+19.659 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+19.513 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+19.676 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+20.050 seconds
+FFT Time elapsed: 
+.048 seconds
+DFT Time elapsed: 
+19.929 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+20.068 seconds
+FFT Time elapsed: 
+.053 seconds
+DFT Time elapsed: 
+20.573 seconds
+FFT Time elapsed: 
+.096 seconds
+DFT Time elapsed: 
+20.731 seconds
+FFT Time elapsed: 
+.049 seconds
+DFT Time elapsed: 
+21.016 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+20.081 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+20.126 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+20.280 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+20.261 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+20.430 seconds
+FFT Time elapsed: 
+.053 seconds
+DFT Time elapsed: 
+20.441 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+20.417 seconds
+FFT Time elapsed: 
+.054 seconds
+DFT Time elapsed: 
+20.497 seconds
+FFT Time elapsed: 
+.054 seconds
+DFT Time elapsed: 
+20.628 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+20.611 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+20.795 seconds
+FFT Time elapsed: 
+.053 seconds
+DFT Time elapsed: 
+21.087 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+21.371 seconds
+FFT Time elapsed: 
+.064 seconds
+DFT Time elapsed: 
+21.239 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+21.177 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+21.031 seconds
+FFT Time elapsed: 
+.053 seconds
+DFT Time elapsed: 
+21.485 seconds
+FFT Time elapsed: 
+.063 seconds
+DFT Time elapsed: 
+21.259 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+21.225 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+21.170 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+21.292 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+21.779 seconds
+FFT Time elapsed: 
+.069 seconds
+DFT Time elapsed: 
+21.728 seconds
+FFT Time elapsed: 
+.053 seconds
+DFT Time elapsed: 
+21.429 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+22.287 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+21.717 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+21.642 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+21.675 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+21.998 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+21.851 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+22.119 seconds
+FFT Time elapsed: 
+.050 seconds
+DFT Time elapsed: 
+22.233 seconds
+FFT Time elapsed: 
+.060 seconds
+DFT Time elapsed: 
+22.142 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+22.162 seconds
+FFT Time elapsed: 
+.054 seconds
+DFT Time elapsed: 
+22.394 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+22.067 seconds
+FFT Time elapsed: 
+.054 seconds
+DFT Time elapsed: 
+22.462 seconds
+FFT Time elapsed: 
+.060 seconds
+DFT Time elapsed: 
+22.838 seconds
+FFT Time elapsed: 
+.059 seconds
+DFT Time elapsed: 
+23.023 seconds
+FFT Time elapsed: 
+.053 seconds
+DFT Time elapsed: 
+22.432 seconds
+FFT Time elapsed: 
+.054 seconds
+DFT Time elapsed: 
+22.546 seconds
+FFT Time elapsed: 
+.054 seconds
+DFT Time elapsed: 
+22.589 seconds
+FFT Time elapsed: 
+.053 seconds
+DFT Time elapsed: 
+22.509 seconds
+FFT Time elapsed: 
+.054 seconds
+DFT Time elapsed: 
+22.652 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+23.013 seconds
+FFT Time elapsed: 
+.054 seconds
+DFT Time elapsed: 
+22.678 seconds
+FFT Time elapsed: 
+.053 seconds
+DFT Time elapsed: 
+22.793 seconds
+FFT Time elapsed: 
+.059 seconds
+DFT Time elapsed: 
+22.960 seconds
+FFT Time elapsed: 
+.054 seconds
+DFT Time elapsed: 
+23.057 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+23.201 seconds
+FFT Time elapsed: 
+.060 seconds
+DFT Time elapsed: 
+23.115 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+23.157 seconds
+FFT Time elapsed: 
+.057 seconds
+DFT Time elapsed: 
+23.276 seconds
+FFT Time elapsed: 
+.058 seconds
+DFT Time elapsed: 
+23.271 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+23.751 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+23.638 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+23.619 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+23.707 seconds
+FFT Time elapsed: 
+.063 seconds
+DFT Time elapsed: 
+24.152 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+23.715 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+23.822 seconds
+FFT Time elapsed: 
+.053 seconds
+DFT Time elapsed: 
+23.986 seconds
+FFT Time elapsed: 
+.053 seconds
+DFT Time elapsed: 
+24.035 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+23.813 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+23.869 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+24.003 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+24.113 seconds
+FFT Time elapsed: 
+.054 seconds
+DFT Time elapsed: 
+24.274 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+24.486 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+24.367 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+24.321 seconds
+FFT Time elapsed: 
+.052 seconds
+DFT Time elapsed: 
+24.345 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+24.406 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+24.752 seconds
+FFT Time elapsed: 
+.064 seconds
+DFT Time elapsed: 
+24.609 seconds
+FFT Time elapsed: 
+.053 seconds
+DFT Time elapsed: 
+25.189 seconds
+FFT Time elapsed: 
+.066 seconds
+DFT Time elapsed: 
+25.760 seconds
+FFT Time elapsed: 
+.065 seconds
+DFT Time elapsed: 
+26.064 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+25.279 seconds
+FFT Time elapsed: 
+.064 seconds
+DFT Time elapsed: 
+25.707 seconds
+FFT Time elapsed: 
+.054 seconds
+DFT Time elapsed: 
+25.021 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+24.973 seconds
+FFT Time elapsed: 
+.051 seconds
+DFT Time elapsed: 
+25.011 seconds
+FFT Time elapsed: 
+.057 seconds
+DFT Time elapsed: 
+25.469 seconds
+FFT Time elapsed: 
+.058 seconds
+DFT Time elapsed: 
+25.887 seconds
+FFT Time elapsed: 
+.058 seconds
+DFT Time elapsed: 
+25.362 seconds
+FFT Time elapsed: 
+.058 seconds
+DFT Time elapsed: 
+25.573 seconds
+FFT Time elapsed: 
+.067 seconds
+DFT Time elapsed: 
+25.741 seconds
+FFT Time elapsed: 
+.057 seconds
+DFT Time elapsed: 
+25.556 seconds
+FFT Time elapsed: 
+.057 seconds
+DFT Time elapsed: 
+25.705 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+26.238 seconds
+FFT Time elapsed: 
+.054 seconds
+DFT Time elapsed: 
+26.221 seconds
+FFT Time elapsed: 
+.059 seconds
+DFT Time elapsed: 
+25.783 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+25.847 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+26.489 seconds
+FFT Time elapsed: 
+.057 seconds
+DFT Time elapsed: 
+25.973 seconds
+FFT Time elapsed: 
+.057 seconds
+DFT Time elapsed: 
+26.027 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+26.332 seconds
+FFT Time elapsed: 
+.057 seconds
+DFT Time elapsed: 
+26.353 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+26.293 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+26.561 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+26.530 seconds
+FFT Time elapsed: 
+.057 seconds
+DFT Time elapsed: 
+26.434 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+26.414 seconds
+FFT Time elapsed: 
+.060 seconds
+DFT Time elapsed: 
+26.586 seconds
+FFT Time elapsed: 
+.064 seconds
+DFT Time elapsed: 
+27.303 seconds
+FFT Time elapsed: 
+.064 seconds
+DFT Time elapsed: 
+26.726 seconds
+FFT Time elapsed: 
+.059 seconds
+DFT Time elapsed: 
+26.848 seconds
+FFT Time elapsed: 
+.059 seconds
+DFT Time elapsed: 
+26.978 seconds
+FFT Time elapsed: 
+.057 seconds
+DFT Time elapsed: 
+26.908 seconds
+FFT Time elapsed: 
+.060 seconds
+DFT Time elapsed: 
+26.915 seconds
+FFT Time elapsed: 
+.060 seconds
+DFT Time elapsed: 
+27.094 seconds
+FFT Time elapsed: 
+.057 seconds
+DFT Time elapsed: 
+27.055 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+27.147 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+27.173 seconds
+FFT Time elapsed: 
+.057 seconds
+DFT Time elapsed: 
+27.286 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+27.404 seconds
+FFT Time elapsed: 
+.066 seconds
+DFT Time elapsed: 
+27.494 seconds
+FFT Time elapsed: 
+.059 seconds
+DFT Time elapsed: 
+27.473 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+28.621 seconds
+FFT Time elapsed: 
+.058 seconds
+DFT Time elapsed: 
+28.206 seconds
+FFT Time elapsed: 
+.067 seconds
+DFT Time elapsed: 
+27.888 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+27.776 seconds
+FFT Time elapsed: 
+.070 seconds
+DFT Time elapsed: 
+28.217 seconds
+FFT Time elapsed: 
+.059 seconds
+DFT Time elapsed: 
+28.105 seconds
+FFT Time elapsed: 
+.058 seconds
+DFT Time elapsed: 
+27.955 seconds
+FFT Time elapsed: 
+.070 seconds
+DFT Time elapsed: 
+28.093 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+28.241 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+28.174 seconds
+FFT Time elapsed: 
+.058 seconds
+DFT Time elapsed: 
+29.149 seconds
+FFT Time elapsed: 
+.062 seconds
+DFT Time elapsed: 
+29.224 seconds
+FFT Time elapsed: 
+.058 seconds
+DFT Time elapsed: 
+28.544 seconds
+FFT Time elapsed: 
+.061 seconds
+DFT Time elapsed: 
+28.860 seconds
+FFT Time elapsed: 
+.059 seconds
+DFT Time elapsed: 
+28.861 seconds
+FFT Time elapsed: 
+.058 seconds
+DFT Time elapsed: 
+28.646 seconds
+FFT Time elapsed: 
+.057 seconds
+DFT Time elapsed: 
+29.053 seconds
+FFT Time elapsed: 
+.068 seconds
+DFT Time elapsed: 
+29.016 seconds
+FFT Time elapsed: 
+.054 seconds
+DFT Time elapsed: 
+28.959 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+29.163 seconds
+FFT Time elapsed: 
+.055 seconds
+DFT Time elapsed: 
+29.240 seconds
+FFT Time elapsed: 
+.069 seconds
+DFT Time elapsed: 
+29.091 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+29.099 seconds
+FFT Time elapsed: 
+.057 seconds
+DFT Time elapsed: 
+29.282 seconds
+FFT Time elapsed: 
+.060 seconds
+DFT Time elapsed: 
+29.271 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+30.127 seconds
+FFT Time elapsed: 
+.056 seconds
+DFT Time elapsed: 
+29.447 seconds
+FFT Time elapsed: 
+.058 seconds
+DFT Time elapsed: 
+29.855 seconds
+FFT Time elapsed: 
+.077 seconds
+DFT Time elapsed: 
