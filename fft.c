@@ -23,7 +23,7 @@ Cnum *fft_combine(const int N, Cnum *E, Cnum *O) {
 
     for (int k = 0; k < N/2; k++) {
         Cnum t = (Cnum) { ( O[k].real * cos(2*M_PI*k/N)
-                           +O[k].imag * sin( 2*M_PI*k/N)),
+                           +O[k].imag * sin(2*M_PI*k/N)),
                             
                           (-O[k].real * sin(2*M_PI*k/N)
                            +O[k].imag * cos(2*M_PI*k/N)) };
@@ -63,7 +63,7 @@ Cnum *fft(const int N, Cnum *in/*, int step*/) {
 
     for (int k = 0; k < N/2; k++) {
         Cnum t = (Cnum) { ( O[k].real * cos(2*M_PI*k/N)
-                           +O[k].imag * sin( 2*M_PI*k/N)),
+                           +O[k].imag * sin(2*M_PI*k/N)),
                             
                           (-O[k].real * sin(2*M_PI*k/N)
                            +O[k].imag * cos(2*M_PI*k/N)) };

@@ -2,6 +2,7 @@
 #include "util.h"
 #include <stddef.h>
 #include <mpi.h>
+#include <string.h>
 
 #define MASTER 0
 
@@ -89,7 +90,7 @@ int main(int argc, char **argv) {
             }
             data = evenData;
             // consider changing tag
-            printf("depth: %d, master, target is %d\n", depth, target);
+            // printf("depth: %d, master, target is %d\n", depth, target);
             MPI_Send(&length, 1, MPI_INT, target, 0, MPI_COMM_WORLD);
             MPI_Send(&depth, 1, MPI_INT, target, 0, MPI_COMM_WORLD);
             MPI_Send(oddData, length, mpi_Cnum, target, 0, MPI_COMM_WORLD);
@@ -98,7 +99,7 @@ int main(int argc, char **argv) {
         }
         Cnum *output = (Cnum *) malloc(sizeof(Cnum)*length);
         output = fft(length, data);
-        printf("master completed fft\n");
+        // printf("master completed fft\n");
 
         MPI_Status status;
 
@@ -106,31 +107,32 @@ int main(int argc, char **argv) {
         Cnum *combined;
         free(evenData);
         free(oddData);
-        printf(" ------ master : available is %d\n", available);
+        // printf(" ------ master : available is %d\n", available);
         while (available < nprocs) {
             oddData = (Cnum *) malloc(sizeof(Cnum)*length);
-            printf(" ------ master : about to receive %d data points from slave %d\n", length, (int)(myrank + nprocs / pow(2, depth-1)));
+            // printf(" ------ master : about to receive %d data points from slave %d\n", length, (int)(myrank + nprocs / pow(2, depth-1)));
             MPI_Recv(oddData, length, mpi_Cnum, (int)(myrank + nprocs / pow(2, depth-1)), MPI_ANY_TAG, MPI_COMM_WORLD, &status);
-            printf(" ------ master : received successfully\n");
+            // printf(" ------ master : received successfully\n");
+
             combined = fft_combine(2*length, output, oddData);
-            printf(" ------ master : successful fft_combine\n");
+            // printf(" ------ master : successful fft_combine\n");
             length *= 2;
             free(output);
             free(oddData);
             output = combined;
-            printf(" ------ master : free'd output and oddData memory\n");
+            // printf(" ------ master : free'd output and oddData memory\n");
 
             depth -= 1;
             available = nprocs / pow(2, depth-1);
-            printf(" ------ master : available is %d\n", available);
+            // printf(" ------ master : available is %d\n", available);
         }
-        printf(" ------ master : done with while loop\n");
+        // printf(" ------ master : done with while loop\n");
         printf("Master finished\n");
 
         Cnum *x;
         for (int i = 0; i < length; i++) {
             x = &output[i];
-            printf("%f + %f i, 0\n", x->real, x->imag);
+            printf("%.3f + %.3f i, 0\n", x->real, x->imag);
         }
         free(output);
 
@@ -138,19 +140,20 @@ int main(int argc, char **argv) {
     else { //We are slaves!
         int length, depth;
 
-        printf("Slave %d starting\n", myrank);
+        // printf("Slave %d starting\n", myrank);
         MPI_Status status;
         // consider changing tag
         MPI_Recv(&length, 1, MPI_INT, MPI_ANY_SOURCE, MPI_ANY_TAG, MPI_COMM_WORLD, &status);
-        printf("Slave %d received length: %d\n", myrank, length);
+        // printf("Slave %d received length: %d\n", myrank, length);
         MPI_Recv(&depth, 1, MPI_INT, MPI_ANY_SOURCE, MPI_ANY_TAG, MPI_COMM_WORLD, &status);
-        printf("Slave %d received depth\n", myrank);
+        // printf("Slave %d received depth\n", myrank);
         Cnum *data = (Cnum *) malloc(sizeof(Cnum)*length);
         MPI_Recv(data, length, mpi_Cnum, MPI_ANY_SOURCE, MPI_ANY_TAG, MPI_COMM_WORLD, &status);
-        printf("Slave %d received data\n", myrank);
+
+        // printf("Slave %d received data\n", myrank);
         depth += 1;
         int target = myrank + nprocs / pow(2, depth);
-        printf("Slave %d, target is %d\n", myrank, target);
+        // printf("Slave %d, target is %d\n", myrank, target);
         Cnum *evenData;
         Cnum *oddData;
         while (target > myrank && // Still have processors to send to
@@ -162,9 +165,10 @@ int main(int argc, char **argv) {
                 evenData[i] = data[2*i];
                 oddData[i] = data[2*i + 1];
             }
-            data = evenData;
-            // consider changing tag
-            printf("depth: %d, slave %d, target is %d\n", depth, myrank, target);
+            free(data); 
+            data = (Cnum *) malloc(sizeof(Cnum)*length);
+            memcpy(data, evenData, sizeof(Cnum)*length);
+            // printf("depth: %d, slave %d, target is %d\n", depth, myrank, target);
             MPI_Send(&length, 1, MPI_INT, target, 0, MPI_COMM_WORLD);
             MPI_Send(&depth, 1, MPI_INT, target, 0, MPI_COMM_WORLD);
             MPI_Send(oddData, length, mpi_Cnum, target, 0, MPI_COMM_WORLD);
@@ -174,10 +178,10 @@ int main(int argc, char **argv) {
             free(oddData);
             free(evenData);
         }
-        printf("Slave %d after while loop(sending)\n", myrank);
+        // printf("Slave %d after while loop(sending)\n", myrank);
         Cnum *output = (Cnum *) malloc(sizeof(Cnum)*length);
         output = fft(length, data);
-        printf("Slave %d after first fft\n", myrank);
+        // printf("Slave %d after first fft\n", myrank);
 
         // Cnum *x;
         // for (int i = 0; i < length; i++) {
@@ -188,16 +192,16 @@ int main(int argc, char **argv) {
         int available = nprocs / pow(2, depth-1);
         int source = status.MPI_SOURCE;
         Cnum *combined = output;
-        printf(" ------ slave %d : about to enter while loop with available as %d\n", myrank, available);
+        // printf(" ------ slave %d : about to enter while loop with available as %d\n", myrank, available);
         while (myrank - available != source) {
-            printf(" ------ slave %d : inside while loop\n", myrank);
+            // printf(" ------ slave %d : inside while loop\n", myrank);
             // combined = (Cnum *) malloc(sizeof(Cnum)*length*2);
             oddData = ((Cnum *) malloc(sizeof(Cnum)*length));
-            printf(" ------ slave %d : about to receive %d data points from %d\n", myrank, length, (int)(myrank + nprocs / pow(2, depth-1)));
+            // printf(" ------ slave %d : about to receive %d data points from %d\n", myrank, length, (int)(myrank + nprocs / pow(2, depth-1)));
             MPI_Recv(oddData, length, mpi_Cnum, (int)(myrank + nprocs / pow(2, depth-1)), MPI_ANY_TAG, MPI_COMM_WORLD, &status);
-            printf(" ------ slave %d : successfully received data\n", myrank);
+            // printf(" ------ slave %d : successfully received data\n", myrank);
             combined = fft_combine(2*length, output, oddData);
-            printf(" ------ slave %d : successful fft_combine\n", myrank);
+            // printf(" ------ slave %d : successful fft_combine\n", myrank);
             depth -= 1;
             available = nprocs / pow(2, depth-1);
             length *= 2;
@@ -205,18 +209,16 @@ int main(int argc, char **argv) {
             free(oddData);
             output = combined;
         }
-        printf(" ------ slave %d : outside of while loop\n", myrank);
-        printf(" ------ slave %d : about to send %d data points to source %d\n", myrank, length, source);
+        // printf(" ------ slave %d : outside of while loop\n", myrank);
+        // printf(" ------ slave %d : about to send %d data points to source %d\n", myrank, length, source);
+
+        // should combined be output? supposedly does not matter
         MPI_Send(combined, length, mpi_Cnum, source, 0, MPI_COMM_WORLD);
-        printf(" ------ slave %d : sent to source %d\n", myrank, source);
+        // printf(" ------ slave %d : sent to source %d\n", myrank, source);
         free(output);
 
-        printf("Slave %d finished\n", myrank);
+        // printf("Slave %d finished\n", myrank);
     }
-
-    // So I fixed the segfault we had before. This works correctly with 2 processors, 
-    // but it isn't quite working with more than 2. The answers are almost right, I'm 
-    // pretty sure there is either one too many or too few fft_combine's
 
     MPI_Finalize();
     return 0;
